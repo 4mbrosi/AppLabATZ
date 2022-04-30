@@ -12,7 +12,7 @@ Lavoro di gruppo applab 2022
 [Link app](https://studio.code.org/projects/applab/kiA073RsaTptbG7xQVnZTCZ6rD1rsn1QTuEKkOsaZi8)
 
 4AI - I.T.I.S G. Marconi VR - 27/04/22  
-1. Ambrosi Marco
+1. Ambrosi Marco  
   -Creazione maggiorparte codice
   -ricerca e scelta immagini
   -
