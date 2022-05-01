@@ -13,11 +13,11 @@ Lavoro di gruppo applab 2022
 
 4AI - I.T.I.S G. Marconi VR - 27/04/22  
 1. Ambrosi Marco
-  - Creazione maggiorparte codice
+  - Creazione codice
   - ricerca e scelta immagini
   -
 2. Toffalori Christian
-  - ...
+  - Creazione codice
   -
 3. Zantedeschi Nicola
   - Creazione Markdown
