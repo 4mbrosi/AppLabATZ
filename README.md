@@ -1,6 +1,5 @@
 # Concorso: “La privacy: diritto umano nella società digitale”
-💀  
-🦍
+💀  🦍
 
 # Ben the unaware
 
