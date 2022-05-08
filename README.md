@@ -13,15 +13,17 @@ Lavoro di gruppo applab 2022
 
 4AI - I.T.I.S G. Marconi VR - 27/04/22  
 1. Ambrosi Marco
-  - Creazione codice
+  - Creazione Intro e primo gioco
   - ricerca e scelta immagini
+  - Creazione github
   -
 2. Toffalori Christian
-  - Creazione codice
+  - Creazione labirinto
   -
 3. Zantedeschi Nicola
   - Creazione Markdown
   - Ritaglio immagini
+  - organizzazione github
   - 
 
 
