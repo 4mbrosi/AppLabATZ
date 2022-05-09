@@ -7,8 +7,7 @@ Derscrizione:
 Questo proggetto punta a sensibilizzare sul tema della privacy, nell'era digitale, in cui tutti i nostri dati sono gestiti sotto forma di bit e i dispositivi digitali tracciano
 ogni nostra azione in rete, il tema della privacy rappresenta una priorità per tutti i cittadini
 
-Lavoro di gruppo applab 2022  
-[Link app](https://studio.code.org/projects/applab/do8BgdXWc5KS-RLkSThUEH_3sRuwFUgsBlDjieYPKuU)
+
 
 4AI - I.T.I.S G. Marconi VR - 27/04/22  
 1. Ambrosi Marco
@@ -25,7 +24,8 @@ Lavoro di gruppo applab 2022
   - Organizzazione github
   - Creazione power point
 
-
+Lavoro di gruppo applab 2022  
+[Link app](https://studio.code.org/projects/applab/do8BgdXWc5KS-RLkSThUEH_3sRuwFUgsBlDjieYPKuU)
 
 
 ## Image Source
