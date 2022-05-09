@@ -22,8 +22,8 @@ Lavoro di gruppo applab 2022
 3. Zantedeschi Nicola
   - Creazione Markdown
   - Ritaglio immagini
-  - organizzazione github
-  - 
+  - Organizzazione github
+  - Creazione power point
 
 
 
