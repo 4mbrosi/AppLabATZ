@@ -14,16 +14,17 @@ ogni nostra azione in rete, il tema della privacy rappresenta una priorità per 
   - Creazione Intro e primo gioco
   - ricerca e scelta immagini
   - Creazione github
-  -
+  
 2. Toffalori Christian
   - Creazione labirinto
-  -
+  
 3. Zantedeschi Nicola
   - Creazione Markdown
   - Ritaglio immagini
   - Organizzazione github
   - Creazione power point
-
+  - 👊
+  
 Lavoro di gruppo applab 2022  
 [Link app](https://studio.code.org/projects/applab/do8BgdXWc5KS-RLkSThUEH_3sRuwFUgsBlDjieYPKuU)
 
