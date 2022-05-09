@@ -4,7 +4,7 @@
 # Ben the unaware
 
 Derscrizione:  
-Questo proggetto punta a sensibilizzare sul tema della privacy, nell'era digitale, in cui tutti i nostri dati sono gestiti sotto forma di bit e i dispositivi digitali tracciano
+Questo progetto punta a sensibilizzare sul tema della privacy, nell'era digitale, in cui tutti i nostri dati sono gestiti sotto forma di bit e i dispositivi digitali tracciano
 ogni nostra azione in rete, il tema della privacy rappresenta una priorità per tutti i cittadini
 
 
