@@ -9,23 +9,24 @@ ogni nostra azione in rete, il tema della privacy rappresenta una priorità per 
 
 
 4AI - I.T.I.S G. Marconi VR - 27/04/22  
-1. Ambrosi Marco
+1. **Ambrosi Marco:**
   - Creazione Intro e primo gioco
   - ricerca e scelta immagini
   - Creazione github
   - Aiuto risoluzione problemi  
-
-2. Toffalori Christian
+   
+2. **Toffalori Christian:**
   - Creazione labirinto
   - Aiuto ricerca e ritaglio immagini
   - Aiuto risoluzione problemi
   - Organizzazione Trello
-  
-3. Zantedeschi Nicola
+      
+3. **Zantedeschi Nicola:**
   - Creazione Markdown
   - Ritaglio immagini
   - Organizzazione github
   - Aiuto risoluzione problemi  
+
 
 
 Lavoro di gruppo applab 2022  
