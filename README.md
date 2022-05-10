@@ -23,7 +23,7 @@ ogni nostra azione in rete, il tema della privacy rappresenta una priorità per 
   - Ritaglio immagini
   - Organizzazione github
   - Creazione power point
-  - 👊🏾
+  - Dedizione alla parte grafica del programma
   
 Lavoro di gruppo applab 2022  
 [Link app](https://studio.code.org/projects/applab/do8BgdXWc5KS-RLkSThUEH_3sRuwFUgsBlDjieYPKuU)
