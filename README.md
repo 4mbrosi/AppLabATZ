@@ -35,5 +35,5 @@ Lavoro di gruppo applab 2022
 [Background](https://www.freepik.com/free-vector/interior-living-room-with-tv-night_8433564.htm#query=interior%20livingroom%20cartoon&position=12&from_view=search)  
 [Skull](https://www.freepik.com/free-vector/skull-hood_8224338.htm#query=skull%20hood&position=0&from_view=search)  
 [Child](https://www.freepik.com/free-vector/cartoon-character-motion-design_4221038.htm#query=cartoon%20character%20motion%20design&position=37&from_view=search)  
-[Telefono](https://it.freepik.com/vettori-gratuito/mockup-di-dispositivo-digitale_4122505.htm#query=telefono&position=19&from_view=search)
+[Telefono](https://it.freepik.com/vettori-gratuito/mockup-di-dispositivo-digitale_4122505.htm#query=telefono&position=19&from_view=search)  
 [File](https://www.flaticon.com/free-icon/folder_1157026)
