@@ -27,7 +27,6 @@ ogni nostra azione in rete, il tema della privacy rappresenta una priorità per 
 Lavoro di gruppo applab 2022  
 [Link app](https://studio.code.org/projects/applab/do8BgdXWc5KS-RLkSThUEH_3sRuwFUgsBlDjieYPKuU)
 
-[link app toffa](https://studio.code.org/projects/applab/blOxZUrKMIhOJmFAJWPDzu7OVqPFMxu0l-OdskygTDY/edit)
 
 
 ## Image Source
